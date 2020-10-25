@@ -2,8 +2,7 @@ Chess code for OOP(Object Oriented Program) (Headers)
 ====================
 
 
-language
+language - java
 ---------------------------------
-java
 
 
